@@ -4,7 +4,9 @@
 An iOS app built to help you introduce yourself to fellow UF students given your name, school, year, and if you would like more pets!
 
 ## App Walk-though
-![](https://i.imgur.com/tq166VM.gif)
+
+![480p](https://user-images.githubusercontent.com/98192642/213092557-81047989-2510-49b3-8d56-a56a36148689.gif)
+
 
 ## Required Features
 - [x] App displays an image of a school's logo
